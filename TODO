@@ -1,0 +1,6 @@
+replace generated test images with test time image generation
+replace CC-BY 2.0 images with newer ones
+generate screenshot image at build time
+setup automated testing using the test server
+depend on external package of common user agents
+package python-esprima for Debian
